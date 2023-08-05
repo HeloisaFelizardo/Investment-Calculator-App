@@ -1,3 +1,3 @@
 <h1> Investment Calculator App </h1>
 
-This is a prototype of an application that calculates investments with compound interest.
+This is a prototype of an application that calculates compound interest investments.
